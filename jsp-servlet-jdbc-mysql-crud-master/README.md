@@ -6,7 +6,7 @@
     -----------------------------
     
   * Eclipse Java EE IDE for Web Developers.  
-	Version: Oxygen (4.7.0), Build id: 20170620-1800.
+    ===> Version: Oxygen (4.7.0), Build id: 20170620-1800. 
 	
   * Spring Tool Suite 4.
 	Version: 4.13.1, Build Id: 202201311654.
