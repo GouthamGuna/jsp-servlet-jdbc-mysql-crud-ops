@@ -12,6 +12,10 @@
 	
   * Spring Tool Suite 4.
 	Version: 4.13.1, Build Id: 202201311654.
+	
+  * Web server.
+	Tomcat v9.0 server 
+	vendor : Apache. 
   
   * Dependency used (Mandatory) :-)
     
